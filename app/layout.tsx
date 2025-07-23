@@ -5,6 +5,7 @@ import { Inter } from "next/font/google"
 import { SidebarProvider } from "@/components/ui/sidebar"
 import { AppSidebar } from "@/components/app-sidebar"
 import { Toaster } from "@/components/ui/toaster"
+import { ChatWidget } from "@/components/chat-widget"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -26,6 +27,7 @@ export default function RootLayout({
           <AppSidebar />
           <div className="flex-1">{children}</div>
           <Toaster />
+          <ChatWidget />
         </SidebarProvider>
       </body>
     </html>
