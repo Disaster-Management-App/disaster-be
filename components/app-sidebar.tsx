@@ -7,6 +7,7 @@ import {
   FileText,
   Home,
   MapPin,
+  MessageCircle,
   Radio,
   Settings,
   Shield,
@@ -59,6 +60,11 @@ const menuItems = [
     title: "Communication Center",
     url: "/communication",
     icon: Radio,
+  },
+  {
+    title: "AI Assistant",
+    url: "/chat",
+    icon: MessageCircle,
   },
   {
     title: "Analytics & Reports",
