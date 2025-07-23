@@ -52,8 +52,7 @@ A comprehensive real-time disaster management and emergency response platform bu
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/disaster-management-system.git
-   cd disaster-management-system
+   git clone https://github.com/Disaster-Management-App/disaster-be
    ```
 
 2. **Install dependencies**
