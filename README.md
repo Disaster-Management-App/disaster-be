@@ -2,8 +2,6 @@
 
 A comprehensive real-time disaster management and emergency response platform built with Next.js 15, designed to coordinate emergency operations, monitor environmental conditions, and manage resources during crisis situations.
 
-![Disaster Management System](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=400&fit=crop)
-
 ## 🌟 Features
 
 ### 🏠 **Core Functionality**
